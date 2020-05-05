@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - readme.md
+theme: jekyll-theme-cayman
+title: Perkenalan ES6
+baseurl: "ES6-PHASE0"
+url: ""
