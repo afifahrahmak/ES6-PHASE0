@@ -26,20 +26,20 @@ var name = ‘Afifah’
 console.log(name) // Afifah
 ```
 
-[https://pythontutor.com/javascript.html#mode=display]
+[https://pythontutor.com/]
 
 # SCOPE
 if, switch, for, while, do-while, function, class, etc..
 
 ```javascript
 if(name.toLowerCase() === "afifah"){
-  let kelas = "Amsterdam-Fox"; // scope if
+  let kelas = "Brussel-Fox"; // scope if
     if(true){
-        let name = "Sofyan";
-        kelas = "Dynamic-Fox";
+        let name = "Daniel";
+        kelas = "Queen-Fox";
     }
     console.log(name); // Afifah
-    console.log(kelas); // Dynamic-Fox
+    console.log(kelas); // Queen-Fox
 }
 ```
 ```javascript
@@ -90,10 +90,12 @@ pi = 4.13;
 
 Problem 2
 ```javascript
+console.log(variableKedua); //undefined
+
 variableKedua = 'ini adalah value yang diassign ke variable';
 var variableKedua;
 
-console.log(variableKedua);
+console.log(variableKedua); // 'ini adalah value yang diassign ke variable'
 ```
 
 Problem 3
@@ -219,11 +221,11 @@ Membuat `simpel` penulisan output yang `sulit` dibaca dengan banyaknya lambang `
 Code:
 ```javascript
 let var1 = 'a';
-let var2 = 'b';
-let var3 = 'c';
+let var2 = '1';
+let var3 = '2';
 
 console.log('Hasil Outputnya adalah: ' + var1 + ' ' + var2 + ' ' + var3);
-console.log(`Hasil Outputnya adalah: ${var1} ${var2} ${var3}`);
+console.log(`Hasil Outputnya adalah: ${var1} ${var2 + var3}`);
 ```
 
 ## Referensi

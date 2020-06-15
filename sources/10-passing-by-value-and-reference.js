@@ -8,7 +8,3 @@ paramInt = 10;
 paramString = 'Ubah Tulisan';
 
 console.log(paramInt, paramString, copyParamInt, copyParamString);
-// 10
-// Ubah tulisan
-// 5
-// Copyan

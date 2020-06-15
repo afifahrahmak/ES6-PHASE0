@@ -1,10 +1,8 @@
 // ----------------------------------------------------------------------------
-// var - Problem 3
+// var - Problem 1
 // ----------------------------------------------------------------------------
-var variableKetiga = 'angka 3';
-
-if (true) {
-  var variableKetiga = 'angka empat';
-}
-
-console.log(variableKetiga);
+var variablePertama = 'hello1';
+var variablePertama = 'hello2';
+console.log(variablePertama);
+var pi = 3.14;
+pi = 4.13;
