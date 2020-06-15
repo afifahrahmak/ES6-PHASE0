@@ -1,3 +1,5 @@
+### ES6
+
 ## Table of Content
 1. [Execution Context, Hoisting, Scope](#ExecutionContext-Hoisting-Scope)
 1. [var, const, dan let](#var-const-dan-let)
