@@ -1,4 +1,4 @@
-### ES6
+# ES6
 
 ## Table of Content
 1. [Execution Context, Hoisting, Scope](#ExecutionContext-Hoisting-Scope)
@@ -30,7 +30,7 @@ console.log(name) // Afifah
 
 [https://pythontutor.com/]
 
-# SCOPE
+## SCOPE
 if, switch, for, while, do-while, function, class, etc..
 
 ```javascript
