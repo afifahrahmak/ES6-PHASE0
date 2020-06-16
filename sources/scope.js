@@ -1,15 +1,13 @@
 // 1
-var name = "Afifah"
+var name = 'Afifah' // Global
 if (name.toLowerCase() === "afifah") {
-    let kelas = "Amsterdam-Fox"; // scope if
+    let kelas = "Brussel-Fox"; // scope if (Local)
     if (true) {
-        console.log('----masuk if----')
-        let name = "Sofyan";
-        kelas = "Dynamic-Fox";
-        console.log(name) // Sofyan
+        let name = "Daniel";
+        kelas = "Queen-Fox";
     }
     console.log(name); // Afifah
-    console.log(kelas); // Dynamic-Fox
+    console.log(kelas); // Queen-Fox
 }
 
 

@@ -2,15 +2,15 @@
 // var - Problem 4
 // ----------------------------------------------------------------------------
 for (var i = 0; i < 5; i++) {
-  var variableKeempat1 = 3;
+  var variableKeempat = 3
 }
-console.log(variableKeempat1);
+console.log(variableKeempat, i)
 
 
-(function () {
-  for (var i = 0; i < 5; i++) {
-    var variableKeempat2 = 3;
-  }
-})();
+// (function () {
+//   for (var i = 0; i < 5; i++) {
+//     var variableKeempat = 3
+//   }
+// })()
 
-console.log(variableKeempat2);
+// console.log(variableKeempat, i)

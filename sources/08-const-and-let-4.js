@@ -1,8 +1,7 @@
 // ----------------------------------------------------------------------------
 // const and let - Solution 4
 // ----------------------------------------------------------------------------
-(function fungsiEmpat() {
-  let variableKeempat = 3;
-})();
-
-console.log(variableKeempat);
+for (let i = 0; i < 5; i++) {
+  let variableKeempat = 3
+}
+console.log(variableKeempat, i)
