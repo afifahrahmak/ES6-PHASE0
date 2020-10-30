@@ -11,6 +11,10 @@
 1. [Template Literal](#template-literal)
 1. [Referensi](#referensi)
 
+
+## Visualize your code here
+pythontutor[!http://pythontutor.com/visualize.html#mode=edit]
+
 ## ExecutionContext, Hoisting, Scope
 2 phase of Execution Context : 
 1. Creation ==> Hoisting
