@@ -13,7 +13,7 @@
 
 
 ## Visualize your code here
-pythontutor[!http://pythontutor.com/visualize.html#mode=edit]
+[Pythontutor](http://pythontutor.com/visualize.html#mode=edit "The best way to understand code flow")
 
 ## ExecutionContext, Hoisting, Scope
 2 phase of Execution Context : 
